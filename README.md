@@ -1,2 +1,2 @@
 # Araba_Database
-This is a script written to work with the data submitted via google sheets
+This is a script written to work on dataframe extracted from Google sheet for my church's Database
