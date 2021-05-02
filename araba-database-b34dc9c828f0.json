@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "araba-database",
+  "private_key_id": "b34dc9c828f0d0b23c1db64ed452f751cb8b7dc0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8W19XMdpKejRx\n6z6txfHA0xLN/wKIrkpPLtv5m79MWuUrYnqg8HtWz+S+dmuqfiZzYfVXe6SrFbsg\nYi7UavIbQLR4hjbFqKoC4J9E6QvW+qWXxydvm8Wki8yAAkpyh4pi0dOkyNQ90VDg\nJXCUbymGi7Jk/qeHKt6ZdWW4eMvzNcJ5KFmZG4NPlurCYezfEKn06WCELYMob3bW\nKDBnIFBtOJmwYQpbtCkjxGe2wGm9Sritb0lJMPLGpFu7TH3zHg6JitrctbtGAWBi\nVd0PhZUenAk5jW0TKeTh2kSgt7GYBLCgoXJNXTaG7WhTqVAi9x1gV/VoFwUvH06+\nVl+iPTI3AgMBAAECggEABKhaOdfxKn/D8zszJmNwU/01aqPFUsUSZlWNHEge2YYV\nampDpfHZ7z1Zf1cgOtM/D59uh3ti9RCJTu4JrqSeNcbZQNSiVT919bKj3F0FhePg\nQsY0cj9Yz2Is06giOsMEG4US1vr2V/3BLFVzIrkf5hgYeHp6z6a8E0ARa1ygZ2CW\njlSB5tZP/z/eUjn58a9dZvCXMxMGwqHlrtV1TnkFWOrRSlOZhWR198uFYV+I8uBs\nfgnVvQefzHk5aSeWBFX0DPMhxyALbgGFS2ci0rXmzRI5wA1Pzbe8X0NyvEeTNdYv\nyCzqJOcUIety99q2wKVpb2tlJ3L6raiTzKYRjxwOJQKBgQDrOvsvRSV27UY0oRAV\nrkhGgCZrK9O+yM33A7K1+egTdR1TYv4jVO13KTACGPKHAU8KEAW+5OWHpYSqGe27\nYwWXasYRNJHVBQBDoaFeZ+zpm8w28WUQhxAtMYcNa/PjJN3bGQ94oE/G9wHqF3M8\nsoAYJnZYmQXyPmM7YMUjDpX+8wKBgQDM/OOVD2lZV2HMHYSVD7TXYZA/KcmE+QYR\nvgvoqb4moeovwcJ2AeNYlT0UW76JQ+YOFqZjOxxghiQXvVfeCyOy82uJO11OY8DK\nOGIYw9TGbkDjYKnSPDRpg0Jw1zwmTN9ujlHVCCi0P5Lwaqrv/c79akIy17vg5Cdt\njEk8rqp4rQKBgQCXJA2S4M3irTAnzrkkBRhhXCPTRpTGCAX2ygSA0nLgVaajFn8O\nOppdrzQulNL4FcowP/1BG5ezYZFtLj3G4igMk0lycqGlCpKR4f9qRkI+E6HSR6ZV\nSUMGlsUcxZkuAFkgVujO68p2n+01+R1NCbAuVEBESwY8EQP3egUQsmWEKwKBgH/r\nHBYL3QEMn5HhpbfjakWxs3NHH2Nkhx4RS5swOeIfzmVo83Hysa24y7nlmpxMC8ck\n6UYpQAcYDnPmC2wb5XYpoySrMAnYBBntX4H2ytPdP47k5nS0bzyc1ZxXJEj+VbvH\nAlf/VG9O8OIonm1PJJlNcuwJZkvr9JLPJXDBys2tAoGAWDvBpob9V5HbhEdbXdU7\n6zo/h9AbDVXUD5gAhphUqU2d8+eo0o0L0YvF6l/RnXhMHh179wuvnioX1sr7Ujbc\n8KmU8Iwm86ULubJj4+02S+bFSr+LcJT/bCNl7EGQjdd0ABbcRW2wwqT+EOZi0aKj\nafFNafogV8ojc/F9pMENLAM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jupyter@araba-database.iam.gserviceaccount.com",
+  "client_id": "107125959254117402502",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jupyter%40araba-database.iam.gserviceaccount.com"
+}
